@@ -1,0 +1,6 @@
+openai
+langchain
+chromadb
+flask
+langchain-community
+# Add any other required packages here
