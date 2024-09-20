@@ -3,4 +3,6 @@ langchain
 chromadb
 flask
 langchain-community
+langchain-openai
+langchain-chroma
 # Add any other required packages here
